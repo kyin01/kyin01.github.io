@@ -3,7 +3,8 @@
 I am currently a sophomore at NYU Stern studying Finance as well as Computing and Data Science with a minor in Mathematics and Computer Science. I am interested in data analytics and product management.
 
 ## Projects
-
+### SNAP Food Assitance Modeling
+<embed src="https://kyin01.github.io/Food Assistance Presentation.pdf" width="100%" height="850px"/>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kyin01/kyin01.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
