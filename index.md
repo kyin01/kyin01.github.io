@@ -1,3 +1,9 @@
+## About
+### Hi, my name is Kevin Yin
+I am currently a sophomore at NYU Stern studying Finance as well as Computing and Data Science with a minor in Mathematics and Computer Science. I am interested in data analytics and product management.
+
+## Projects
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kyin01/kyin01.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,9 +41,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-## About
-### Hi, my name is Kevin Yin
-I am currently a sophomore at NYU Stern studying Finance and Computing and Data Science with a minor in Mathematics and Computer Science. I am interested in data analytics and product management.
-
-## Projects
