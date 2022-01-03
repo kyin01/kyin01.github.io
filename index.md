@@ -5,6 +5,8 @@ I am currently a sophomore at NYU Stern studying Finance as well as Computing an
 [Click here to check out my LinkedIn](https://www.linkedin.com/in/kyin/)
 |---|
 
+<a href="#" class="button big">Create Project</a>
+
 ## Projects
 <details>
 <summary>
