@@ -4,8 +4,9 @@ I am currently a sophomore at NYU Stern studying Finance as well as Computing an
 
 [Click here to check out my LinkedIn](https://www.linkedin.com/in/kyin/)
 
-<p> <a href="https://www.linkedin.com/in/kyin/" target="_blank">Click here to check out my LinkedIn</a></p>
+<a href="https://www.linkedin.com/in/kyin/" target="_blank">Click here to check out my LinkedIn</a> 
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 ## Projects
 <details>
