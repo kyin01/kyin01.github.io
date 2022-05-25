@@ -12,7 +12,7 @@ Wordle Solving Algorithm
 <br>
 After studying machine learning algorithms such as neural networks, k-means clustering, and Naive Bayes throughout the semester, I worked on a project to create algorithms to solve the word-game Wordle with two other teammates. I coded Wordle, then my teammates and I each created separate algorithms based on different strategies to solve Wordle. After measuring the efficiency of each of our algorithms, we also utilized q-learning to see if we could create a more efficient algorithm by combining our three separate methods.
 <br>
-<embed src="https://kyin01.github.io/Word Presentation.pdf" width="100%" height="850px"/>
+<embed src="https://kyin01.github.io/Wordle Presentation.pdf" width="100%" height="850px"/>
 </details>
 
 <details>
