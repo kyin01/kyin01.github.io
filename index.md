@@ -17,7 +17,6 @@ After studying machine learning algorithms such as neural networks, k-means clus
 
 <details>
 <summary>
-  
 SNAP Food Assistance Modeling
 </summary>
 <br>
