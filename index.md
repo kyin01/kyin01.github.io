@@ -12,7 +12,7 @@ Melting Pot
 <br>
 As a part of Major League Hacking's "Hacky Birthday MLH" hackathon, I worked with two friends to create Melting Pot, a social media website for sharing family recipes. Our social media website has a backend MongoDB database connected with a Node.js/Express.js application to act as an API. This is all then deployed with Heroku. The frontend was coded in HTML/CSS/JavaScript and was then connected to the backend using Flask. Some key features include the ability to upload recipes along with an image, comment, and dynamic frontend refreshing.
 <br>
-<embed src="https://kyin01.github.io/Wordle Presentation.pdf" width="100%" height="850px"/>
+<img src="assets/home.png" width="100%" height="850px"/>
 </details>
 
 <details>
